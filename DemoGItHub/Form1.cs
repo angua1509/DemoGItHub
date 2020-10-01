@@ -21,6 +21,8 @@ namespace DemoGItHub
         {
             int i = 10;
             i = 12;
+            // test to show chanes made by another programmer
+            int newValue = 12345;
         }
     }
 }
